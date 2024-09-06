@@ -1,0 +1,5 @@
+pattern_size:
+  width: 7
+  height: 4
+
+chessboard_square_size: 0.0311
